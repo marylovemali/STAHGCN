@@ -19,7 +19,7 @@ On this framework, this article inherits and innovates. Subsequent researchers a
 
 METR-LA             |  PEMS-BAY
 :-------------------------:|:-------------------------:
-![](results/performance_la.png)  |  ![](results/performance_bay.png)
+
 
 ## 💿 Dependencies
 
