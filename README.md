@@ -15,7 +15,7 @@ On this framework, this article inherits and innovates. Subsequent researchers a
 }
 ```
 
-![Main results.](results/results.png)
+
 
 METR-LA             |  PEMS-BAY
 :-------------------------:|:-------------------------:
